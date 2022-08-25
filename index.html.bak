@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Мой Сайт</title>
+		<link href="style.css" rel="stylesheet">
+	</head>
+	<body>
+		<h1>Вы зашли на Мой Сайт</h1>
+		<p><strong>Привет.</strong></p>
+		<p><em>Добро пожаловать сюда! Здесь я <strong>практикуюсь в создании сайтов,</strong> и то что ты <br>видишь - мой прогресс на данный момент(03.01.2022)!</em></p>
+		<p><strong>Тест отдельных страниц и гиперссылок</strong></p>
+		<p><a href="meme/memas.html">Смотри какой смешной мем я нашёл!</a></p>
+		<p><strong>Тест изображений</strong></p>
+		<p><a href="meme/memas.html"><img src="images\kotik_pikachu_igrushka_gif_bumery.gif" alt="котик"></a></p>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/MhyQQ8IViDY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+</html>
